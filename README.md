@@ -22,7 +22,7 @@ Sample input:
 9 14 7 11
 13 * 15 12
 
-
+#######################
 
 Sample output:
 
@@ -59,3 +59,5 @@ Sample output:
 5 6 7 8
 9 10 11 12
 13 14 15 *
+
+15-puzzle Solved!
