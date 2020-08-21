@@ -18,8 +18,11 @@ we solved this problem in 2 ways! :
 
 Sample input:
 1 2 3 4
+
 5 10 6 8
+
 9 14 7 11
+
 13 * 15 12
 
 #######################
